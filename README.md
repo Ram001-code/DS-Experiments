@@ -14,6 +14,15 @@ This Jupyter Notebook explores a sample dataset and performs some basic data man
   * seaborn
   * scipy.stats
 
+**Usage**
+1. **Clone this Repo**
+   - ```
+   git clone https://github.com/Ram001-code/DS-Experiments.git
+   ```
+
+2. **Upload on Colab or Jupyter Notebook**
+
+
 **Steps:**
 
 1. **Mount Google Drive (Optional):**
