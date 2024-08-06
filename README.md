@@ -16,7 +16,7 @@ This Jupyter Notebook explores a sample dataset and performs some basic data man
 
 **Usage**
 1. **Clone this Repo**
-   - ```
+   - ```sh
    git clone https://github.com/Ram001-code/DS-Experiments.git
    ```
 
